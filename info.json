@@ -1,0 +1,13 @@
+{
+  "name": "railway-reach",
+  "version": "2.0.2",
+  "title": "Railway Reach: Adjustable Supports",
+  "author": "RedRafe",
+  "source": "https://github.com/RedRafe/railway-reach",
+  "homepage": "https://mods.factorio.com/mod/railway-reach",
+  "dependencies": [
+    "elevated-rails > 2.0.0"
+  ],
+  "description": "Railway Reach: Adjustable Supports allows you to significantly increase the distance between supports for elevated rails, enhancing your railway design flexibility. Customize the support spacing to suit your needs and create sprawling networks with ease. Transform your elevated rail systems today!",
+  "factorio_version": "2.0"
+}
